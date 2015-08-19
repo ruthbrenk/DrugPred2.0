@@ -1,5 +1,5 @@
 # DrugPred2.0
-Python scripts that were used to run DrugPred2.0 as described our PLOS One paper
+Python scripts that were used to run DrugPred2.0 as described in our PLOS One paper
 
 You will also need Python libraries from Openeye and Simca from Umetrics to carry out DrugPred calculations. You will also need DOCK 3.6 for the calculations.
 The current version of the code only works if you also have a MySQL db in which you store information about the files that should be processed and into which the calculated desribitor values will be stored.
